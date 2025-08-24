@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 72 72">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #a07dd1;
+      }
+
+      .st1 {
+        fill: #8c61b5;
+      }
+
+      .st2 {
+        fill: #5b2777;
+      }
+
+      .st3 {
+        stroke-linecap: round;
+        stroke-width: 1.5px;
+      }
+
+      .st3, .st4, .st5 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st3, .st5 {
+        stroke: #5b2777;
+      }
+
+      .st6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st4 {
+        stroke: #8c61b5;
+        stroke-width: 1.3px;
+      }
+
+      .st8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="st0" points="66.24 20.44 47.57 20.44 49.52 7.79 64.24 7.79 66.24 20.44"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" x="17.53" y="28.17" width="31.81" height="19.59" rx="3.11" ry="3.11"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <path class="st0" d="M18.51,60.55c-1.47-.89-6.43-12.65-4.7-15.69.88-1.55,6.13-2.12,7.61-1.01.72.53,1.28,1.78,1.72,3.21h20.61c.44-1.43,1-2.67,1.72-3.21,1.48-1.11,6.73-.53,7.61,1.01,1.73,3.04-2.9,14.63-4.7,15.69-3.27,1.91-27.24,1.6-29.87,0Z"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_2">
+    <rect class="st4" x="7.1" y="16.81" width="26.33" height="20.43" rx="1.63" ry="1.63"/>
+    <polyline class="st4" points="11.29 16.81 20.27 12.44 29.24 16.81"/>
+    <rect class="st2" x="13.81" y="22.01" width="12.92" height="10.02" rx=".8" ry=".8"/>
+    <g>
+      <line class="st3" x1="56.91" y1="15.07" x2="56.91" y2="60.45"/>
+      <line class="st3" x1="53.36" y1="60.45" x2="60.64" y2="60.45"/>
+    </g>
+    <g>
+      <polygon class="st0" points="66.24 20.44 47.57 20.44 49.52 7.79 64.24 7.79 66.24 20.44"/>
+      <g class="st8">
+        <polyline class="st1" points="47.57 20.44 62.32 17.5 64.24 7.79 68.49 21.79 47.57 20.44"/>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_3">
+    <g>
+      <path class="st2" d="M21.2,64.57c-1.35-.05,0-5.41,0-5.41h4s-3.06,5.44-4,5.41Z"/>
+      <path class="st2" d="M46.25,64.57c1.35-.05,0-5.41,0-5.41h-4s3.06,5.44,4,5.41Z"/>
+    </g>
+    <g>
+      <rect class="st0" x="17.53" y="28.17" width="31.81" height="19.59" rx="3.11" ry="3.11"/>
+      <g class="st6">
+        <path class="st1" d="M14.24,39.41s28.24-5.09,31.4-7.15c1.58-1.03.83-7.12.83-7.12l7.49,5.01.21,22.57-40.34-.19.42-13.12Z"/>
+      </g>
+    </g>
+    <g>
+      <path class="st0" d="M18.51,60.55c-1.47-.89-6.43-12.65-4.7-15.69.88-1.55,6.13-2.12,7.61-1.01.72.53,1.28,1.78,1.72,3.21h20.61c.44-1.43,1-2.67,1.72-3.21,1.48-1.11,6.73-.53,7.61,1.01,1.73,3.04-2.9,14.63-4.7,15.69-3.27,1.91-27.24,1.6-29.87,0Z"/>
+      <g class="st7">
+        <path class="st5" d="M23.47,44.58s.31,7.05,1.01,7.99,17.04.94,17.78,0c1-1.27,1.06-8.18,1.06-8.18"/>
+      </g>
+    </g>
+  </g>
+</svg>

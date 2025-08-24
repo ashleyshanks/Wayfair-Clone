@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 72 72">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+        stroke-width: 3.92px;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        stroke-linecap: round;
+      }
+
+      .st1, .st2 {
+        fill: none;
+        stroke-width: 3.7px;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="57.81 42.35 19.47 42.35 13.21 14.5 64.58 14.5 57.81 42.35"/>
+  <polyline class="st1" points="19.47 42.35 9.83 58.59 61.14 58.59"/>
+  <ellipse class="st2" cx="21.01" cy="63.29" rx="1.43" ry="1.36"/>
+  <ellipse class="st2" cx="53.69" cy="63.29" rx="1.43" ry="1.36"/>
+  <line class="st1" x1="13.45" y1="11.34" x2="6.39" y2="11.23"/>
+</svg>

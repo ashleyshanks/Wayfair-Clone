@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Wayfair</title>
+    <meta
+      name="description"
+      content="Wayfair is your online destination for affordable furniture and home decor, offering millions of stylish pieces with fast shipping and great prices."
+    />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://use.typekit.net/agf7qvj.css" />
+  </head>
+
+  <body>
+    <header>
+      <div id="site-header">
+        <h1>Wayfair</h1>
+        <form action="/search" method="GET" class="search">
+          <label for="site-search" class="hidden">Search website</label>
+          <input
+            type="search"
+            id="site-search"
+            name="site-search"
+            placeholder="Find anything home..."
+            required
+          />
+          <button class="purple-color" type="submit" aria-label="Submit search">
+            <!--Search icon-->
+          </button>
+        </form>
+        <a href="#"><!--icon--><span>Sign in</span></a>
+        <a href="#"><!--icon--><span>Cart</span></a>
+      </div>
+
+      <h2 class="hidden">Navigation</h2>
+      <div id="top-bar">
+        <ul id="brands-nav">
+          <li><a href="#">Wayfair</a></li>
+          <li><a href="#">AllModern</a></li>
+          <li><a href="#">Birch Lane</a></li>
+          <li><a href="#">Joss & Main</a></li>
+          <li><a href="#">Perigold</a></li>
+        </ul>
+
+        <p id="featured-deal">Featured deal<!--arrow--></p>
+
+        <ul id="services-nav">
+          <li><a href="#">Rewards</a></li>
+          <li><a href="#">Financing</a></li>
+          <li><a href="#">Professional</a></li>
+          <li><a href="#">Free & Easy Delivery Over $35</a></li>
+        </ul>
+      </div>
+
+      <nav>
+        <ul>
+          <li><a href="#">Furniture</a></li>
+          <li><a href="#">Outdoor</a></li>
+          <li><a href="#">Bedding & Bath</a></li>
+          <li><a href="#">Rugs</a></li>
+          <li><a href="#">Decor & Pillows</a></li>
+          <li><a href="#">Lighting</a></li>
+          <li><a href="#">Organization</a></li>
+          <li><a href="#">Kitchen</a></li>
+          <li><a href="#">Baby & Kids</a></li>
+          <li><a href="#">Home Improvement</a></li>
+          <li><a href="#">Appliances</a></li>
+          <li><a href="#">Pet</a></li>
+          <li><a href="#">Holiday</a></li>
+          <li><a href="#">Show by Room</a></li>
+          <li>
+            <a href="#"><!--icon-->Verified</a>
+          </li>
+          <li class="red-text"><a href="#">Sale</a></li>
+        </ul>
+      </nav>
+
+      <div class="slides">
+        <!-- Hero images -->
+        <button class="previous" aria-label="Previous slide">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="Next slide"><!--arrow--></button>
+      </div>
+    </header>
+    <main>
+      <h2 class="hidden">Product and Category Information</h2>
+      <section id="featured-grid">
+        <div class="featured-col">
+          <h3>up to 50% OFF: Back-to-School Deal Week</h3>
+          <svg width="200" height="100">
+            <path
+              d="M10,50 L150,50 L140,40 L150,50 L140,60 Z"
+              stroke="black"
+              stroke-width="2"
+              fill="black"
+            />
+          </svg>
+          <!--Four product images in ul-->
+        </div>
+        <div class="featured-col">
+          <h3>fresh-picked favorites</h3>
+          <svg width="200" height="100">
+            <path
+              d="M10,50 L150,50 L140,40 L150,50 L140,60 Z"
+              stroke="black"
+              stroke-width="2"
+              fill="black"
+            />
+          </svg>
+          <!--Four product images in ul-->
+        </div>
+      </section>
+      <!-- Banner ad -->
+      <section class="products scroll">
+        <h3>our top 25 college pics</h3>
+        <p>We did the homework—get campus-ready in one click.</p>
+        <!-- Product images in ul -->
+        <button class="previous" aria-label="See previous products">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more products">
+          <!--arrow-->
+        </button>
+        <a href="#">Shop all</a>
+      </section>
+      <!-- Banner ad -->
+      <section id="secret-deals">
+        <h3>reveal your secret deals</h3>
+        <!-- hidden products image -->
+        <button class="purple-color" aria-label="Show deal pop-up">
+          Tap here
+        </button>
+      </section>
+      <section class="seasonal">
+        <h3 class="hidden">Fall Patio Prep</h3>
+        <!-- Fall image -->
+        <h4>outdoor fall faves</h4>
+        <!-- three products -->
+
+        <h4>stay outside for longer</h4>
+        <section class="products scroll">
+          <!-- Product images in ul -->
+          <button class="previous" aria-label="See previous products">
+            <!--arrow-->
+          </button>
+          <button class="next" aria-label="See more products">
+            <!--arrow-->
+          </button>
+          <a href="#">See more</a>
+        </section>
+      </section>
+
+      <section class="scroll styles">
+        <h3>shop your style: click the image to shop</h3>
+        <!-- Style category images -->
+        <button class="previous" aria-label="See previous styles">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more styles"><!--arrow--></button>
+      </section>
+
+      <!-- Banner ad -->
+
+      <section class="seasonal">
+        <h3 class="hidden">Halloween headquarters</h3>
+        <!-- Halloween image -->
+        <!-- Halloween categories ul -->
+        <section class="products scroll">
+          <!-- Product images in ul -->
+          <button class="previous" aria-label="See previous products">
+            <!--arrow-->
+          </button>
+          <button class="next" aria-label="See more products">
+            <!--arrow-->
+          </button>
+          <a href="#">See all</a>
+        </section>
+      </section>
+
+      <!-- banner ad -->
+
+      <section class="products scroll">
+        <h3>these trends? they’re viral for a reason.</h3>
+        <!-- trending category images ul -->
+        <button class="previous" aria-label="See previous products">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more products">
+          <!--arrow-->
+        </button>
+      </section>
+
+      <section class="products scroll seasonal">
+        <h3>top picks for national dog month</h3>
+        <!-- Product images in ul -->
+        <button class="previous" aria-label="See previous products">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more products">
+          <!--arrow-->
+        </button>
+        <a href="#">See all</a>
+      </section>
+      <!-- Banner ad -->
+
+      <section class="products scroll">
+        <h3>roll with the cozy</h3>
+        <!-- Three product images ul -->
+        <button class="previous" aria-label="See previous products">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more products">
+          <!--arrow-->
+        </button>
+        <a href="#">See all</a>
+      </section>
+      <!-- Banner image -->
+
+      <section class="scroll brands">
+        <h3>explore our exclusive brands</h3>
+        <p>
+          Bring your vision to life with hand-curated collections, priced just
+          right.
+        </p>
+        <!-- Brand images ul -->
+        <button class="previous" aria-label="See previous brands">
+          <!--arrow-->
+        </button>
+        <button class="next" aria-label="See more brands"><!--arrow--></button>
+        <a href="#">See all</a>
+      </section>
+
+      <!-- Banner image -->
+
+      <section id="department-categories">
+        <!-- department nav ul -->
+      </section>
+
+      <section id="key-selling-points">
+        <ul>
+          <li>
+            <!-- img -->
+            <span>Unbeatable Selection</span>
+          </li>
+          <li>
+            <!-- img -->
+            <span>Expert Customer Service</span>
+          </li>
+          <li>
+            <!-- img -->
+            <span>Fast & Free Shipping Over $35*</span>
+          </li>
+          <li>
+            <!-- img -->
+            <span>Amazing Value Every Day</span>
+          </li>
+        </ul>
+      </section>
+
+      <!-- Banner image -->
+    </main>
+
+    <footer>
+      <!-- Banner image -->
+      <div id="sign-up-deal">
+        <div>
+          <p>New Here? Grab 10% Off Your First Order.</p>
+          <p><a href="#">Terms</a> & <a href="#">Privacy Policy</a></p>
+          <p><a href="#">Exclusions Apply</a></p>
+        </div>
+
+        <form action="/create-account" method="POST" class="submit-email">
+          <label for="email" class="hidden">Enter your email address</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Email Address"
+            required
+          />
+          <button type="submit" class="purple-color">Submit</button>
+        </form>
+      </div>
+
+      <div id="company">
+        <div>
+          <h2>About Us</h2>
+          <ul>
+            <li><a href="#">About Wayfair</a></li>
+            <li><a href="#">Wayfair Rewards</a></li>
+            <li><a href="#">Wayfair Professional</a></li>
+            <li><a href="#">Design Services</a></li>
+            <li><a href="#">Gift Cards</a></li>
+            <li><a href="#">Wayfair Credit Card</a></li>
+            <li><a href="#">Wayfair Financing</a></li>
+            <li><a href="#">Product Collections</a></li>
+            <li><a href="#">Careers</a></li>
+            <li><a href="#">Sell on Wayfair</a></li>
+            <li><a href="#">Creators</a></li>
+            <li><a href="#">Investor Relations</a></li>
+            <li><a href="#">Advertise With Us</a></li>
+            <li><a href="#">Locations</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Customer Service</h2>
+          <ul>
+            <li><a href="#">My Orders</a></li>
+            <li><a href="#">My Accounts</a></li>
+            <li><a href="#">Track My Order</a></li>
+            <li><a href="#">Wayfair Accessibility Statement</a></li>
+            <li><a href="#">Return Policy</a></li>
+            <li><a href="#">Help Center</a></li>
+            <li><a href="#">Ideas & Advice</a></li>
+            <li><a href="#">Product Recalls</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h2>Contact Us</h2>
+          <button class="purple-color"><!--icon-->Quick Help</button>
+          <button class="reversed-color"><!--icon-->Call Us</button>
+
+          <h3>Customer Service</h3>
+          <p>
+            Open. Closes at 11:59 PM ET.
+            <a href="#">Weekly Hours</a>
+          </p>
+
+          <h3>Shopping Assistance</h3>
+          <p>
+            Open. Closes at 11:59 PM ET.
+            <a href="#">Weekly Hours</a>
+          </p>
+        </div>
+
+        <div id="brand-legal">
+          <ul id="brands">
+            <li><!--brand logo--></li>
+            <li><!--brand logo--></li>
+            <li><!--brand logo--></li>
+          </ul>
+
+          <ul id="socials">
+            <li><a href="#">Terms of Use</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Your Privacy Rights & Choices</a></li>
+          </ul>
+
+          <p>
+            Your unique web-ID verification code:
+            <span id="verification-code">154 351 183</span>
+          </p>
+
+          <small
+            >© 2025 by Wayfair LLC, 4 Copley Place, 7th Floor, Boston, MA
+            02116</small
+          >
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
