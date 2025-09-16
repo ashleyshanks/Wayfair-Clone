@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2078 588.06">
+  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+      }
+
+      .st4 {
+        fill: #340578;
+        font-size: 79px;
+      }
+
+      .st4, .st5 {
+        font-family: SofiaPro-Black, 'Sofia Pro';
+        font-weight: 800;
+      }
+
+      .st6 {
+        font-size: 31px;
+        letter-spacing: 0em;
+      }
+
+      .st6, .st7 {
+        font-family: SofiaPro-Bold, 'Sofia Pro';
+        font-weight: 700;
+      }
+
+      .st1, .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1, .st3 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 1.47px;
+      }
+
+      .st7 {
+        font-size: 26px;
+      }
+
+      .st7, .st8 {
+        fill: #fff;
+      }
+
+      .st9 {
+        fill: #e55137;
+      }
+
+      .st2 {
+        stroke: #ec008c;
+        stroke-width: 1.11px;
+      }
+
+      .st5 {
+        font-size: 45px;
+      }
+
+      .st10 {
+        fill: #712398;
+      }
+
+      .st3 {
+        stroke-linejoin: round;
+      }
+
+      .st11 {
+        fill: #ecdafb;
+      }
+
+      .st12 {
+        isolation: isolate;
+      }
+
+      .st12, .st13 {
+        font-family: SofiaPro-Medium, 'Sofia Pro';
+        font-size: 34px;
+        font-weight: 500;
+      }
+
+      .st14 {
+        display: none;
+      }
+
+      .st15 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" y="0" width="2078" height="588.06"/>
+    </clipPath>
+  </defs>
+  <g class="st15">
+    <rect class="st11" x="611.98" y="-30.25" width="854.03" height="632.03"/>
+  </g>
+  <g class="st14">
+    <rect class="st2" x=".19" y="0" width="857.12" height="588.06"/>
+    <line class="st2" x1=".19" y1="470.45" x2="857.31" y2="470.45"/>
+    <line class="st2" x1=".19" y1="352.84" x2="857.31" y2="352.84"/>
+    <line class="st2" x1=".19" y1="235.22" x2="857.31" y2="235.22"/>
+    <line class="st2" x1=".19" y1="117.61" x2="857.31" y2="117.61"/>
+    <line class="st2" x1="685.89" y1="0" x2="685.89" y2="588.06"/>
+    <line class="st2" x1="514.47" y1="0" x2="514.47" y2="588.06"/>
+    <line class="st2" x1="343.04" y1="0" x2="343.04" y2="588.06"/>
+    <line class="st2" x1="171.62" y1="0" x2="171.62" y2="588.06"/>
+  </g>
+  <g>
+    <text class="st12" transform="translate(760.26 407.98)"><tspan x="0" y="0">Plus 5% in rewards</tspan></text>
+    <text class="st13" transform="translate(1046.33 396.65) scale(.58)"><tspan x="0" y="0">1</tspan></text>
+    <text class="st13" transform="translate(1053.46 407.98)"><tspan x="0" y="0" xml:space="preserve"> and more perks!</tspan></text>
+    <g>
+      <g>
+        <circle class="st10" cx="1121.51" cy="451.73" r="18.05"/>
+        <g>
+          <path class="st1" d="M1126.62,451.76"/>
+          <line class="st1" x1="1121.52" y1="446.93" x2="1126.62" y2="451.7"/>
+          <polyline class="st3" points="1121.52 456.53 1126.62 451.76 1116.4 451.76"/>
+        </g>
+      </g>
+      <text class="st12" transform="translate(938.44 463.06)"><tspan x="0" y="0" xml:space="preserve">Join today     </tspan></text>
+    </g>
+    <text class="st4" transform="translate(675.09 262.83)"><tspan x="0" y="0">unbeatable savings </tspan><tspan x="80.34" y="84">on kitchenware</tspan></text>
+    <g>
+      <rect class="st9" x="707.74" y="110.67" width="662.52" height="70.96" rx="5.43" ry="5.43"/>
+      <text class="st8" transform="translate(759.67 157.79)"><tspan class="st5" x="0" y="0">wayfair </tspan><tspan class="st6" x="171.22" y="0" xml:space="preserve">REWARDS  |  MEMBERS ONLY</tspan></text>
+      <g>
+        <polygon class="st8" points="730.31 156.76 736.4 158.84 739.44 155.81 731.26 147.64 728.22 150.67 730.31 156.76"/>
+        <polygon class="st8" points="730.3 136.84 728.22 142.93 731.25 145.96 739.42 137.78 736.39 134.75 730.3 136.84"/>
+        <polygon class="st8" points="750.22 136.83 744.13 134.74 741.1 137.78 749.28 145.95 752.31 142.91 750.22 136.83"/>
+        <polygon class="st8" points="750.24 156.75 752.32 150.66 749.28 147.63 741.11 155.81 744.15 158.84 750.24 156.75"/>
+      </g>
+    </g>
+  </g>
+  <path class="st9" d="M2058,20v548.06h-571.98V20h571.98M2078,0h-611.98v588.06h611.98V0h0Z"/>
+  <g>
+    <polygon class="st9" points="193.99 173.55 193.99 95.94 126.77 57.13 59.55 95.94 59.55 173.55 126.77 212.36 193.99 173.55"/>
+    <text class="st7" transform="translate(71.25 134.74)"><tspan x="0" y="0">MEMBER</tspan><tspan x="16.2" y="28">DEALS</tspan></text>
+  </g>
+  <g>
+    <polygon class="st9" points="2007.01 446.78 2007.01 369.17 1939.79 330.36 1872.58 369.17 1872.58 446.78 1939.79 485.59 2007.01 446.78"/>
+    <text class="st7" transform="translate(1884.27 407.98)"><tspan x="0" y="0">MEMBER</tspan><tspan x="16.2" y="28">DEALS</tspan></text>
+  </g>
+</svg>
